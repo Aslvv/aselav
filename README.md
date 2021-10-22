@@ -1,4 +1,10 @@
 ### Hi there 👋
+## I'm Aselav(or Aslv in game), I'm basically an idiot.
+
+My long term goal is to turn programming into a possible life career.
+My short term goals are to do whatever comes to mind.
+Right now, what I do is help around the block with my friend, whos working on a Discord bot, https://acoustic.to.
+I'm basically the right hand man in terms of managing the server. I also *kind* of help with the website.
 
 <!--
 **aselav/aselav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
