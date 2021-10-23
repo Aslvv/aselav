@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Aselav(or Aslv in game), I'm basically an idiot.
+## I'm Aselav(or Aslv in game), I'm a beginner to programming.
 
 My long term goal is to turn programming into a possible life career.
 
