@@ -1,13 +1,9 @@
 ### Hi there 👋
-## I'm Aselav(or Aslv in game), I'm a beginner to programming.
+## I'm Aslv.
 
-My long term goal is to turn programming into a possible life career.
+My long term goal is to find a branch in technology that I enjoy, and I can make a living off of.
 
 My short term goals are to do whatever comes to mind.
-
-Right now, what I do is help around the block for my friend, whos working on a Discord bot, [Acoustic](https://acoustic.to).
-
-I'm basically the right hand man in terms of managing the server. I also *kind* of help with the website.
 
 <!--
 **aselav/aselav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
