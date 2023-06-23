@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## I'm Aslv.
 
-My long term goal is to find a branch in technology that I enjoy, and I can make a living off of.
+My long-term goal is to find a branch of technology that I enjoy and make a living off of.
 
-My short term goals are to do whatever comes to mind.
+My short-term goals are to do whatever comes to mind.
 
 <!--
-**aselav/aselav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aslv/aslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
