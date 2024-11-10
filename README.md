@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi
 ## I'm Aslv.
 
-My long-term goal is to find a branch of technology that I enjoy and make a living off of.
+My long-term goal is to find something that I enjoy and make a living off of.
 
 My short-term goals are to do whatever comes to mind.
 
